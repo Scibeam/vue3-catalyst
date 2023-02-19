@@ -22,7 +22,7 @@ npm run build
 ```
 
 ## Idea
-__vue3-catalyst__ provides a starting point for new Vue 3 apps. The motivation for which is to save time by including all of our goto third party libraries and configuration settings, that we would otherwise need to set up manually, in one easily cloned and repuposed repo.
+__vue3-catalyst__ provides a starting point for new Vue 3 apps ands aims to save time by including all of our goto third party libraries and configuration settings in one easily cloned and repuposed repo.
 
 ## Moving Parts (A-Z)
   * ESLint (check on save w/ rollup)
