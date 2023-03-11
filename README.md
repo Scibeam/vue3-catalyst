@@ -21,6 +21,12 @@ Make a production build
 npm run build
 ```
 
+## Copying
+If you would like to copy the files into an existing repo you can use rsync. You may need to re-install dependencies with `npm i` after the copy process.
+```
+rsync -av --progress ./vue3-catalyst/ ./audio-lab-ui --exclude='.git' --exclude='node_modules' --exclude='dist'
+```
+
 ## Idea
 __vue3-catalyst__ provides a starting point for new Vue 3 apps ands aims to save time by including all of our goto third party libraries and configuration settings in one easily cloned and repuposed repo.
 
