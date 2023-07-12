@@ -1,9 +1,11 @@
 # Scibeam Vue3 Catalyst
 
 ## Quickstart
+Create a New Repo from the "Use this template" option
+
 Clone
 ```
-git clone git@github.com:Scibeam/vue3-catalyst.git
+git clone YOUR_NEW_REPO_URL
 ```
 
 Install dependencies:
